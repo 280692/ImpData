@@ -1,2 +1,0 @@
-# ImpData
-from office
